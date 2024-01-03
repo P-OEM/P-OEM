@@ -1,4 +1,4 @@
-# about me:
+# about me :)
 
 [//]: # (site for guide on setup, and template code)
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
