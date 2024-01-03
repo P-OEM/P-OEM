@@ -4,7 +4,7 @@
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={gamingtruble}&theme={2077})
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamingtruble&theme=2077)
 
 <details>
 <summary>initial template</summary>
