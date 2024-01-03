@@ -13,7 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gamingtruble&theme=panda) 
 
 [//]: # (productive time card)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1)
 
 ## languages
 
