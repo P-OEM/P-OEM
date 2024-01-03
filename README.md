@@ -9,12 +9,17 @@
 [//]: # (profile detail card)
 ![](https://gamingtruble-vercel.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda)
 
+<p align="left">
+  
 [//]: # (stats card)
 ![](https://gamingtruble-vercel.vercel.app/api/cards/stats?username=gamingtruble&theme=panda) 
+</p>
 
+<p align="right">
+  
 [//]: # (productive time card)
 ![](https://gamingtruble-vercel.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1)
-
+</p>
 ## languages
 
 [//]: # (top language by repo card)
