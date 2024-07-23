@@ -2,7 +2,7 @@
 
 ## Hi, I'm a fresh programmer and an IT enthusiast 🌱
 
-## My interest for IT
+### My interest for IT
 <details open>
 
 #### My love for computers and IT in general started with simple game creation 🎮
@@ -14,7 +14,7 @@
 [//]: # (site for guide on setup, and template code)
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## stats
+### stats
 
 [//]: # (profile detail card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda)
@@ -22,7 +22,7 @@
 [//]: # (stats card and productive time card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=panda) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1)
 
-## languages
+### languages
 
 [//]: # (top language by repo card and top language by commit card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/repos-per-language?username=gamingtruble&theme=panda) ![](http://vercel-gamingtruble.vercel.app/api/cards/most-commit-language?username=gamingtruble&theme=panda)
