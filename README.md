@@ -18,12 +18,13 @@
 ### stats
 
 [//]: # (profile detail card)
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset=![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda)>
- <source media="(prefer-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
- <img alt="Stats changing depending on mode. Light: 'vue theme' Dark: 'panda theme'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
-</picture>
-
+<a href="http://vercel-gamingtruble">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
+  <source media="(prefer-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
+  <img alt="Stats changing depending on mode. Light: 'vue theme' Dark: 'panda theme'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
+ </picture>
+</a>
 [//]: # (stats card and productive time card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=panda) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1)
 
