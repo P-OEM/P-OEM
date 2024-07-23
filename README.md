@@ -18,7 +18,7 @@
 ### stats
 
 [//]: # (profile detail card)
-![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda#gh-dark-mode-only)
+[//]: ![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda#gh-dark-mode-only)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=casper#gh-light-mode-only)
 
 [//]: # (stats card and productive time card)
