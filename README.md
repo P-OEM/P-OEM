@@ -6,8 +6,11 @@
 <details open>
 
 * My love for computers and IT in general started with simple game creation 🎮
+
 * After learning the basics to become an electrician, working with electronics and PLC (Programmable Logic Controller), my interest moved toward the hardware 🔌 I don't think I remember all the computers I've repaired, cleaned and built since then 💻
+
 * I never became an electrician, instead I took a path of more studying and burnt out during a 3D design year 😵 The silver lining was that I discovered blender, and it led me to open source, which again led me to a bachelor in IT-programming 👨‍💻
+
 * Today I'm one exam off from that degree (for now 📚✍️), with an A on my thesis and a goal of making today's issues tomorrow's git history 📜
 </details>
 
