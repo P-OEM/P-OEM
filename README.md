@@ -18,18 +18,12 @@
 ### stats
 
 [//]: # (profile detail card)
-<a href="http://vercel-gamingtruble.vercel.app">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
-  <source media="(prefers-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
-  <img alt="Stats changing depending on mode. Light: 'vue theme' Dark: 'panda theme'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
- </picture>
-</a>
+![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=transparent)
 
 [//]: # (stats card and productive time card)
-![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=panda) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1)
+![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=transparent) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=transparent&utcOffset=1)
 
 ### languages
 
 [//]: # (top language by repo card and top language by commit card)
-![](http://vercel-gamingtruble.vercel.app/api/cards/repos-per-language?username=gamingtruble&theme=panda) ![](http://vercel-gamingtruble.vercel.app/api/cards/most-commit-language?username=gamingtruble&theme=panda)
+![](http://vercel-gamingtruble.vercel.app/api/cards/repos-per-language?username=gamingtruble&theme=transparent) ![](http://vercel-gamingtruble.vercel.app/api/cards/most-commit-language?username=gamingtruble&theme=transparent)
