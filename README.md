@@ -20,7 +20,7 @@
 [//]: # (profile detail card)
 <picture>
 <source
-  media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
+  media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble">
  <source media="(prefer-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
  <img alt="Stats changing depending on mode. Light: 'vue theme' Dark: 'panda theme'" src="">
 </picture>
