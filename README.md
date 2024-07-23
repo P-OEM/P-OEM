@@ -18,8 +18,10 @@
 ### stats
 
 [//]: # (profile detail card)
-![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda#gh-dark-mode-only)
-![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue#gh-light-mode-only)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
+   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
+</picture>
 
 [//]: # (stats card and productive time card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=panda#gh-dark-mode-only) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=panda&utcOffset=1#gh-dark-mode-only)
