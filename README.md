@@ -3,7 +3,6 @@
 ## Hi, I'm a fresh programmer and an IT enthusiast 🌱
 
 ### My interest for IT
-<details open>
 
 * My love for computers and IT in general started with simple game creation 🎮
 
@@ -12,7 +11,6 @@
 * I never became an electrician, instead I took a path of more studying and burnt out during a 3D design year 😵 The silver lining was that I discovered blender, and it led me to open source, which again led me to a bachelor in IT-programming 👨‍💻
 
 * Today I'm one exam off from that degree (for now 📚✍️), with an A on my thesis and a goal of making today's issues tomorrow's git history 📜
-</details>
 
 [//]: # (site for guide on setup, and template code)
 [//]: # (https://github.com/vn7n24fzkq/github-profile-summary-cards)
