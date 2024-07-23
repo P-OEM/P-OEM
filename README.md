@@ -18,7 +18,7 @@
 ### stats
 
 [//]: # (profile detail card)
-<a href="http://vercel-gamingtruble">
+<a href="http://vercel-gamingtruble.vercel.app">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
   <source media="(prefers-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
