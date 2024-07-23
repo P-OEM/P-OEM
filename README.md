@@ -20,7 +20,7 @@
 [//]: # (profile detail card)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
-   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
+   <img media="(prefers-color-scheme: light)" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
 </picture>
 
 [//]: # (stats card and productive time card)
