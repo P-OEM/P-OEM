@@ -19,9 +19,9 @@
 
 [//]: # (profile detail card)
 <picture>
- <source media="(prefers-color-scheme: dark)" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
- <source media="(prefers-color-scheme: light)" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
-   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'">
+ <source media="(prefers-color-scheme: dark)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=panda">
+ <source media="(prefers-color-scheme: light)" srcset="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
+   <img alt="Stats changing depending on mode. Light: 'vue theme' Dark: 'panda theme'" src="http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=vue">
 </picture>
 
 [//]: # (stats card and productive time card)
