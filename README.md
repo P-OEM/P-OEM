@@ -18,7 +18,7 @@
 ### stats
 
 [//]: # (profile detail card)
-![](http://vercel-gamingtruble.vercel.app/api/cards/profile-details?username=gamingtruble&theme=transparent)
+![](https://github-stats-pal-oivinds-projects.vercel.app/api/cards/profile-details?username=P-OEM&theme=transparent)
 
 [//]: # (stats card and productive time card)
 ![](http://vercel-gamingtruble.vercel.app/api/cards/stats?username=gamingtruble&theme=transparent) ![](http://vercel-gamingtruble.vercel.app/api/cards/productive-time?username=gamingtruble&theme=transparent&utcOffset=1)
