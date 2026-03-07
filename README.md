@@ -1,7 +1,6 @@
 # Hello World 👋
 ## about me
 ### I like programming, and open source. I use void linux, and I've made my personal guide containing answers to such difficult things as setting login keyboard language publically available.
-### Currently I'm working on an IEEE refference tool written in C, to ease my work on an exam (that I will probably publish as open source once it's finished).
 ## Publically available useful repositories:
 ### [P-OEM's void linux setup](https://github.com/P-OEM/P-OEM-s-void-setup)
 
